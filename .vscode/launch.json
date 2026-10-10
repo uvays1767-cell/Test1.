@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "di_x",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "di_x",
+      "program": "di_x/lib/main.dart"
+    }
+  ]
+}
+
